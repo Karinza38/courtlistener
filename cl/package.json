@@ -49,7 +49,7 @@
     "webpack-dev-server": "^4.10.0"
   },
   "dependencies": {
-    "@types/react-bootstrap": "^0.32.23",
+    "@types/react-bootstrap": "^0.32.37",
     "@types/showdown": "^1.9.3",
     "css-loader": "^5.2.4",
     "date-fns": "^2.21.1",
