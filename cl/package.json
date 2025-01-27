@@ -52,7 +52,7 @@
     "@types/react-bootstrap": "^0.32.23",
     "@types/showdown": "^1.9.3",
     "css-loader": "^5.2.4",
-    "date-fns": "^2.21.1",
+    "date-fns": "^2.30.0",
     "lodash.debounce": "^4.0.8",
     "react-bootstrap": "^0.33.1",
     "react-input-switch": "^2.2.2",
